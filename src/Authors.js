@@ -5,7 +5,7 @@ class Authors extends Component {
   render() {
     return (
       <div>
-      <p>Written By:{this.props.text}</p>
+        <p>Written By: {this.props.text}</p>
       </div>
     )
   }
